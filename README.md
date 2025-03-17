@@ -1,7 +1,8 @@
 # 250310 VBA with a Physic Integral Equation
 
 use the VBA to calculate the integral equation.
-![integral Equation](integral equation.png)
+
+![integral Equation](./integral equation.png)
 
 ## Steps to Solve
 1. simplify the integral term.
