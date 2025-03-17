@@ -2,7 +2,7 @@
 
 use the VBA to calculate the integral equation.
 
-![integral Equation](./integral equation.png)
+![Integral%20%Equation](integral equation.png)
 
 ## Steps to Solve
 1. simplify the integral term.
@@ -24,3 +24,5 @@ use the VBA to calculate the integral equation.
 4. refer to the demo, you see the range should be grater than 8.92 ==> 9 m, so try 9 to 500.
 5. the bi-section method gets the root is about 183.xxx.
 6. done !!!
+
+[def]: in
