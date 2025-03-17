@@ -1,0 +1,17 @@
+1) simplifiy the integral term
+2) solve the simplified integral term by numerical method (Simpson's rule)
+3) find the root of the equation ( any lambda that make f(lambda) = 0 ) by nemerical method (Bi-section)
+4) run and plot the graph.
+
+note : the lambda cannot be zero (error : divided by zero) 
+and lambda is the wave length, so it should be greater than zero in physically.
+
+
+running
+- enter the suitable range of lambda to execute the iteration (numerical method)
+- maybe some lambda  makes the sinh, cosh and tanh to be infinity, so the equation cannnot be evaluated.
+- if we dont know what lambda range is suitable, so we can try to plot the graph to be guildance.
+- refer to the demo, you see the range should be grater than 8.92 --> 9 m, try 9 to 500.
+- the bi section method gets the root is 183.xxx.
+
+- done !!!
