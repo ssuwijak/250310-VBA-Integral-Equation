@@ -1,5 +1,4 @@
 # 250310 VBA with a Physic Integral Equation
----
 
 use the VBA to calculate the integral equation.
 
